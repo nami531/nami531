@@ -45,7 +45,7 @@ I'm currently a second-year student in a vocational training program for Web App
 
 #### 📫 Catch me here!
 <p align="center">
-  <a href="www.linkedin.com/in/nami531" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nami531" /></a>
+  <a href="https://www.linkedin.com/in/nami531" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nami531" /></a>
   <a href="mailto:nadia.mi531@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=nadia.mi531@gmail.com mail style="margin-bottom: 5px;" />
   </a>
