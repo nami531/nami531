@@ -51,7 +51,7 @@ I'm currently a second-year student in a vocational training program for Web App
   </a>
   <a href="https://x.com/Nami_531" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="Nami_531" /></a>
   <a href="https://www.instagram.com/nami__531/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nami__531" /></a>
-  <a href="nadia_mi" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nadia_mi531#2874" /></a>
+  <img src="https://img.shields.io/badge/nadia_mi-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nadia_mi531#2874" />
 </p>
 
 
