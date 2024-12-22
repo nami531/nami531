@@ -44,9 +44,19 @@ I'm currently a second-year student in a vocational training program for Web App
 
 
 #### 📫 Catch me here!
+<p align="center">
+  <a href="www.linkedin.com/in/nami531" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nami531" /></a>
+  <a href="mailto:nadia.mi531@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=nadia.mi531@gmail.com mail style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://x.com/Nami_531" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="Nami_531" /></a>
+  <a href="https://www.instagram.com/nami__531/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nami__531" /></a>
+  <a href="nadia_mi" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="nadia_mi531#2874" /></a>
+</p>
 
 
-#### Statistics
+
+#### 📊 Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nami531&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" 
        alt="nami531" 
